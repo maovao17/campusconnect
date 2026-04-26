@@ -4,8 +4,7 @@
 
 ## Demo Video
 
-<!-- Add your screen recording link here after recording -->
-📹 **[https://drive.google.com/drive/folders/1jHA0zOMHsjP2_nOmxbS6LyKlZCowZEEf?usp=sharing](#)** ← Replace with your actual recording link
+**[https://drive.google.com/drive/folders/1jHA0zOMHsjP2_nOmxbS6LyKlZCowZEEf?usp=sharing](#)*
 
 ---
 
@@ -29,7 +28,7 @@ Campus Ambassador programs fail silently — not because of poor intent, but bec
 - Personal dashboard — real-time points, rank, streak tracker, progress bar
 - Task list with proof-of-work submission form
 - **AI task scoring** — submit proof → Gemini scores (0–100) + gives feedback instantly
-- Badge system: First Step, On Fire 🔥, Century Club 💯, Event Host 🎪, Content King 👑, Top Referrer 🚀
+- Badge system: First Step, On Fire, Century Club, Event Host, Content King, Top Referrer
 - Live leaderboard with podium view
 
 ### Admin View
