@@ -57,7 +57,7 @@ Campus Ambassador programs fail silently — not because of poor intent, but bec
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/campusconnect.git
+git clone https://github.com/maovao17/campusconnect.git
 cd campusconnect
 ```
 
